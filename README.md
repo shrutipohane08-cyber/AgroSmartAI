@@ -102,3 +102,6 @@ AgroSmartAI/
 ## ⭐ Project Highlights
 
 AgroSmart AI demonstrates the application of Machine Learning in agriculture by analyzing soil and weather conditions to recommend suitable crops through an interactive web application.
+
+
+https://agrosmartai-sxsvskbncqda5kvex95dmp.streamlit.app/
